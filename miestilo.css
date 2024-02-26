@@ -1,0 +1,16 @@
+@charset "utf-8";
+.magenta {
+    background-color: #B9736E;
+}
+.rosa {
+    background-color: #FCE5E5;
+}
+.bg-img {
+    background-image: url(
+../../../../../../../Downloads/Group%201%20(5).png);
+    /* [disabled]background-color: #CC9CC1 !important; */
+}
+
+.pink {
+    background-color: #F5AFAF !important;
+}
